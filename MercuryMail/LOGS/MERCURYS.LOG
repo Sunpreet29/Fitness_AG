@@ -1,0 +1,77 @@
+T 20240328 151133 66058852 Connection from 127.0.0.1
+T 20240328 151133 66058852 HELO Sunpreet
+T 20240328 151133 66058852 MAIL FROM:<dino1300@tvk.rwth-aachen.de>
+T 20240328 151133 66058852 RCPT TO:<sunpreet1313@tvk.rwth-aachen.de>
+E 20240328 151133 66058852 Relay attempt by 127.0.0.1: from <dino1300@tvk.rwth-aachen.de> to <sunpreet1313@tvk.rwth-aachen.de>.
+T 20240328 151133 66058852 QUIT
+T 20240328 151133 66058852 Connection closed with 127.0.0.1, 0 sec. elapsed.
+T 20240328 151145 66058853 Connection from 127.0.0.1
+T 20240328 151145 66058853 HELO Sunpreet
+T 20240328 151145 66058853 MAIL FROM:<dino1300@tvk.rwth-aachen.de>
+T 20240328 151145 66058853 RCPT TO:<sunpreet1313@tvk.rwth-aachen.de>
+E 20240328 151145 66058853 Relay attempt by 127.0.0.1: from <dino1300@tvk.rwth-aachen.de> to <sunpreet1313@tvk.rwth-aachen.de>.
+T 20240328 151145 66058853 QUIT
+T 20240328 151145 66058853 Connection closed with 127.0.0.1, 0 sec. elapsed.
+T 20240328 151246 66058854 Connection from 127.0.0.1
+T 20240328 151246 66058854 HELO Sunpreet
+T 20240328 151246 66058854 MAIL FROM:<dino1300@tvk.rwth-aachen.de>
+T 20240328 151246 66058854 RCPT TO:<sunpreet1313@tvk.rwth-aachen.de>
+E 20240328 151246 66058854 Relay attempt by 127.0.0.1: from <dino1300@tvk.rwth-aachen.de> to <sunpreet1313@tvk.rwth-aachen.de>.
+T 20240328 151246 66058854 QUIT
+T 20240328 151246 66058854 Connection closed with 127.0.0.1, 0 sec. elapsed.
+T 20240328 161543 66058855 Connection from 127.0.0.1
+T 20240328 161543 66058855 HELO Sunpreet
+T 20240328 161543 66058855 MAIL FROM:<dino1300@tvk.rwth-aachen.de>
+T 20240328 161543 66058855 RCPT TO:<sunpreet1313@tvk.rwth-aachen.de>
+E 20240328 161543 66058855 Relay attempt by 127.0.0.1: from <dino1300@tvk.rwth-aachen.de> to <sunpreet1313@tvk.rwth-aachen.de>.
+T 20240328 161543 66058855 QUIT
+T 20240328 161543 66058855 Connection closed with 127.0.0.1, 0 sec. elapsed.
+T 20240328 161553 66058856 Connection from 127.0.0.1
+T 20240328 161553 66058856 HELO Sunpreet
+T 20240328 161553 66058856 MAIL FROM:<dino1300@tvk.rwth-aachen.de>
+T 20240328 161553 66058856 RCPT TO:<sunpreet1313@tvk.rwth-aachen.de>
+E 20240328 161553 66058856 Relay attempt by 127.0.0.1: from <dino1300@tvk.rwth-aachen.de> to <sunpreet1313@tvk.rwth-aachen.de>.
+T 20240328 161553 66058856 QUIT
+T 20240328 161553 66058856 Connection closed with 127.0.0.1, 0 sec. elapsed.
+T 20240329 203122 66058857 Connection from 127.0.0.1
+T 20240329 203122 66058857 HELO Sunpreet
+T 20240329 203122 66058857 MAIL FROM:<dino1300@tvk.rwth-aachen.de>
+T 20240329 203122 66058857 RCPT TO:<sunpreet1313@tvk.rwth-aachen.de>
+E 20240329 203122 66058857 Relay attempt by 127.0.0.1: from <dino1300@tvk.rwth-aachen.de> to <sunpreet1313@tvk.rwth-aachen.de>.
+T 20240329 203123 66058857 QUIT
+T 20240329 203123 66058857 Connection closed with 127.0.0.1, 1 sec. elapsed.
+T 20240329 224926 66058858 Connection from 127.0.0.1
+T 20240329 224926 66058858 HELO Sunpreet
+T 20240329 224926 66058858 MAIL FROM:<dino1300@tvk.rwth-aachen.de>
+T 20240329 224926 66058858 RCPT TO:<anshul1305@tvk.rwth-aachen.de>
+E 20240329 224926 66058858 Relay attempt by 127.0.0.1: from <dino1300@tvk.rwth-aachen.de> to <anshul1305@tvk.rwth-aachen.de>.
+T 20240329 224926 66058858 QUIT
+T 20240329 224926 66058858 Connection closed with 127.0.0.1, 0 sec. elapsed.
+T 20240329 225030 66058859 Connection from 127.0.0.1
+T 20240329 225030 66058859 HELO Sunpreet
+T 20240329 225030 66058859 MAIL FROM:<dino1300@tvk.rwth-aachen.de>
+T 20240329 225030 66058859 RCPT TO:<sunpreet1313@tvk.rwth-aachen.de>
+E 20240329 225030 66058859 Relay attempt by 127.0.0.1: from <dino1300@tvk.rwth-aachen.de> to <sunpreet1313@tvk.rwth-aachen.de>.
+T 20240329 225030 66058859 QUIT
+T 20240329 225030 66058859 Connection closed with 127.0.0.1, 0 sec. elapsed.
+T 20240330 000627 6605885a Connection from 127.0.0.1
+T 20240330 000627 6605885a HELO Sunpreet
+T 20240330 000627 6605885a MAIL FROM:<dino1300@tvk.rwth-aachen.de>
+T 20240330 000627 6605885a RCPT TO:<sunpreet1313@tvk.rwth-aachen.de>
+E 20240330 000627 6605885a Relay attempt by 127.0.0.1: from <dino1300@tvk.rwth-aachen.de> to <sunpreet1313@tvk.rwth-aachen.de>.
+T 20240330 000627 6605885a QUIT
+T 20240330 000627 6605885a Connection closed with 127.0.0.1, 0 sec. elapsed.
+T 20240330 001018 6605885b Connection from 127.0.0.1
+T 20240330 001018 6605885b HELO Sunpreet
+T 20240330 001018 6605885b MAIL FROM:<dino1300@tvk.rwth-aachen.de>
+T 20240330 001018 6605885b RCPT TO:<sunpreet1313@tvk.rwth-aachen.de>
+E 20240330 001018 6605885b Relay attempt by 127.0.0.1: from <dino1300@tvk.rwth-aachen.de> to <sunpreet1313@tvk.rwth-aachen.de>.
+T 20240330 001018 6605885b QUIT
+T 20240330 001018 6605885b Connection closed with 127.0.0.1, 0 sec. elapsed.
+T 20240330 001033 6605885c Connection from 127.0.0.1
+T 20240330 001033 6605885c HELO Sunpreet
+T 20240330 001033 6605885c MAIL FROM:<dino1300@tvk.rwth-aachen.de>
+T 20240330 001033 6605885c RCPT TO:<sunpreet1313@tvk.rwth-aachen.de>
+E 20240330 001033 6605885c Relay attempt by 127.0.0.1: from <dino1300@tvk.rwth-aachen.de> to <sunpreet1313@tvk.rwth-aachen.de>.
+T 20240330 001033 6605885c QUIT
+T 20240330 001033 6605885c Connection closed with 127.0.0.1, 0 sec. elapsed.
